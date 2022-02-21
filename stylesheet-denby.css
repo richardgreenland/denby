@@ -743,7 +743,7 @@ html,body{
     color:var(--color-shade-500) !important
 }
 #activity-list-v2 ul .point-value{
-    background:transparent !important;
+    background:var(--color-blue-900) !important;
     border-radius:3px;
     box-shadow:0 0 0 2px var(--color-blue-900) inset;
     color:var(--color-shade-100) !important;
@@ -755,9 +755,9 @@ html,body{
     user-select:none
 }
 #activity-list-v2 ul .point-value:hover{
-    background:var(--color-blue-900) !important;
+    background:var(--color-shade-100) !important;
     box-shadow:0 0 0 2px var(--color-blue-900) inset;
-    color:var(--color-shade-100) !important
+    color:var(--color-blue-900) !important
 }
 #activity-list-v2 ul .point-value:focus{
     background:var(--color-blue-900) !important;
