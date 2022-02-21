@@ -765,9 +765,9 @@ html,body{
     color:var(--color-shade-100) !important
 }
 #activity-list-v2 ul .point-value:active{
-    background:var(--color-transparent-20) !important;
-    box-shadow:0 0 0 2px var(--color-shade-900) inset;
-    color:var(--color-shade-900) !important;
+    background:var(--color-blue-900) !important;
+    box-shadow:0 0 0 2px var(--color-blue-900) inset;
+    color:var(--color-shade-100) !important;
     transition:none
 }
 #activity-list-v2 ul .point-value.completed .fa-check-circle{
