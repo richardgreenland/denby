@@ -523,9 +523,9 @@ html,body{
     z-index:10
 }
 #activity-list-v2 ul .activity:active .point-value{
-    background:var(--color-transparent-20) !important;
-    box-shadow:0 0 0 2px var(--color-shade-900) inset;
-    color:var(--color-shade-900) !important;
+    background:var(--color-blue-900) !important;
+    box-shadow:0 0 0 2px var(--color-blue-900) inset;
+    color:var(--color-shade-100) !important;
     transition:all 0s
 }
 #activity-list-v2 ul .activity:active button.title{
@@ -625,7 +625,7 @@ html,body{
     width:4rem
 }
 #activity-list-v2 ul .activity .points-container .bonus-label::after{
-    color:var(--color-shade-100);
+    color:var(--color-blue-900);
     content:'Bonus';
     display:block;
     font-size:var(--text-supporting);
