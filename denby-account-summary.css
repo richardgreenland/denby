@@ -76,7 +76,7 @@
     --hero-left-scrim: linear-gradient(to right, #eb9f42 0%, rgba(235, 159, 66, 0.98) 3%, rgba(235, 159, 66, 0.91) 5%, rgba(235, 159, 66, 0.82) 8%, rgba(235, 159, 66, 0.7) 11%, rgba(235, 159, 66, 0.57) 15%, rgba(235, 159, 66, 0.43) 21%, rgba(235, 159, 66, 0.3) 29%, rgba(235, 159, 66, 0.18) 41%, rgba(235, 159, 66, 0.09) 56%, rgba(235, 159, 66, 0.02) 75%, rgba(235, 159, 66, 0) 100%)
 }
 
-@media (min-width: 600px) {
+@media (min-width: 900px) {
      :root {
         --space-buttons: .375rem;
         --space-a: .625rem;
@@ -87,7 +87,7 @@
     }
 }
 
-@media (min-width: 600px) {
+@media (min-width: 900px) {
      :root {
         --text-nav: 1.125rem;
         --text-subnav: 1rem;
@@ -112,7 +112,7 @@
     }
 }
 
-@media (min-width: 600px) {
+@media (min-width: 900px) {
      :root {
         --height-nav: 5rem;
         --height-subnav: 2.5rem;
@@ -120,7 +120,7 @@
     }
 }
 
-@media (min-width: 600px) {
+@media (min-width: 900px) {
      :root {
         --hero-left-scrim: linear-gradient(to right, #eb9f42 0%, rgba(235, 159, 66, 0.98) 1.5%, rgba(235, 159, 66, 0.91) 2.5%, rgba(235, 159, 66, 0.82) 4%, rgba(235, 159, 66, 0.7) 5.5%, rgba(235, 159, 66, 0.57) 7.5%, rgba(235, 159, 66, 0.43) 10.5%, rgba(235, 159, 66, 0.3) 14.5%, rgba(235, 159, 66, 0.18) 20.5%, rgba(235, 159, 66, 0.09) 28%, rgba(235, 159, 66, 0.02) 37.5%, rgba(235, 159, 66, 0) 50%)
     }
@@ -1159,8 +1159,8 @@ body {
 
 #account-overview-two-v2 {
     color: #000;
-    padding: 20px;
-    border-radius: 20px;
+    padding: 00px;
+    border-radius: 00px;
 }
 
 #account-overview-two-v2 .title {
@@ -1168,7 +1168,7 @@ body {
 }
 
 #account-overview-two-v2 .ct-points-color {
-    color: #dd2f3d !important;
+    color: var(--color-shade-500) !important;
 }
 
 #account-overview-two-v2 .logout-link-container {
