@@ -150,7 +150,7 @@
       background-color:var(--color-shade-500) !important
   }
   .header.ct-header-color .ct-header-text-color{
-      color:var(--color-shade-900) !important
+      color:var(--color-shade-100) !important
   }
   h1,h2,h3,h4,h5,h6{
       font-family:inherit
