@@ -147,7 +147,7 @@
       height:0
   }
   .header.ct-header-color{
-      background-color:var(--color-shade-500) !important
+      background-color:var(--color-shade-100) !important
   }
   .header.ct-header-color .ct-header-text-color{
       color:var(--color-shade-100) !important
@@ -159,7 +159,7 @@
       font-size:1em
   }
   .ct-points-color{
-      color:var(--color-shade-900) !important;
+      color:var(--color-blue-900) !important;
       text-transform:none !important
   }
   .ct-link-color{
