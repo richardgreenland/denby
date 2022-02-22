@@ -1168,7 +1168,7 @@ body {
 }
 
 #account-overview-two-v2 .ct-points-color {
-    color: var(--color-shade-500) !important;
+    color: #2D2D2E !important;
 }
 
 #account-overview-two-v2 .logout-link-container {
